@@ -1,0 +1,17 @@
+C:\Desenvolvimento\SalaoBeleza\src\Data\bin\Debug\net10.0\Data.deps.json
+C:\Desenvolvimento\SalaoBeleza\src\Data\bin\Debug\net10.0\Data.runtimeconfig.json
+C:\Desenvolvimento\SalaoBeleza\src\Data\bin\Debug\net10.0\Data.dll
+C:\Desenvolvimento\SalaoBeleza\src\Data\bin\Debug\net10.0\Data.pdb
+C:\Desenvolvimento\SalaoBeleza\src\Data\bin\Debug\net10.0\Domain.dll
+C:\Desenvolvimento\SalaoBeleza\src\Data\bin\Debug\net10.0\Domain.pdb
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.csproj.AssemblyReference.cache
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.AssemblyInfoInputs.cache
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.AssemblyInfo.cs
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.csproj.Up2Date
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.dll
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\refint\Data.dll
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.pdb
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\Data.genruntimeconfig.cache
+C:\Desenvolvimento\SalaoBeleza\src\Data\obj\Debug\net10.0\ref\Data.dll
